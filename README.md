@@ -18,6 +18,10 @@ https://youtu.be/1ibmWyt8hfw
 
 # git status -sb
 
+- git status
+
+  - 이것만 썼는데 뒤에 옵션이 붙는다. 다 찾아보자
+
 - 요약해서 status볼 수 있다.??
 
 
