@@ -13,3 +13,5 @@ https://youtu.be/1ibmWyt8hfw
 # git diff
 
 - 변화된 diff를 볼 수 있다. 굿 👍
+
+  - https://youtu.be/2Y8Mltng5uc
