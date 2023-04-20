@@ -19,3 +19,12 @@ https://youtu.be/1ibmWyt8hfw
 # git status -sb
 
 - 요약해서 status볼 수 있다.??
+
+
+# git add 다양한 활용법
+
+- git add -u 이거 기능 찾아보자
+
+  - 다른 쓸만한 블로그
+
+    - https://www.gitkraken.com/learn/git/git-add
