@@ -15,3 +15,7 @@ https://youtu.be/1ibmWyt8hfw
 - 변화된 diff를 볼 수 있다. 굿 👍
 
   - https://youtu.be/2Y8Mltng5uc
+
+# git status -sb
+
+- 요약해서 status볼 수 있다.??
