@@ -54,6 +54,9 @@ https://youtu.be/1ibmWyt8hfw
   
     - example https://gitlab.com/xfbs/rust-gitlab-example/
 
+- How to Enable GitLab Pages for GitLab CE and EE
+
+  https://youtu.be/dD8c7WNcc6s
 
 - Gitlab DevSecOps 파이프라인 소개 : CI/CD 에서 보안검사 쉽게하기!
 
