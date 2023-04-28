@@ -48,7 +48,7 @@ https://youtu.be/1ibmWyt8hfw
 
 # GitLab Publish 배포
 
-- Rust로 Giblab으로 배포하는 방법
+- Rust로 Gitlab으로 배포하는 방법(How to make use of the GitLab CI for Rust Projects
 
   - https://dev.to/xfbs/how-to-make-use-of-the-gitlab-ci-for-rust-projects-4j1o
 
