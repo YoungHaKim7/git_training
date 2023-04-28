@@ -1,5 +1,10 @@
 # git_training
 
+# git 사용법 (한글설명)
+
+https://youtu.be/ZqhJnaAPokk
+
+
 
 # Git and GitHub - 0 Experience to Professional in 1 Tutorial (Part 1) | SuperSimpleDev
 
