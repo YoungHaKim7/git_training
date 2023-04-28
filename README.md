@@ -46,6 +46,10 @@ https://youtu.be/1ibmWyt8hfw
 
 <hr>
 
+# GitLab에서 git 배우기
+
+https://docs.gitlab.com/ee/tutorials/learn_git.html
+
 # GitLab Publish 배포
 
 - Rust로 Gitlab으로 배포하는 방법(How to make use of the GitLab CI for Rust Projects
