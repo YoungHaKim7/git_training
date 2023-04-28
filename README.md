@@ -65,3 +65,7 @@ https://docs.gitlab.com/ee/tutorials/learn_git.html
 - Gitlab DevSecOps 파이프라인 소개 : CI/CD 에서 보안검사 쉽게하기!
 
   - https://youtu.be/AQ4WrAWd3E4
+  
+  
+  
+- 성공한 gitlab?? https://gitlab.com/mike-ensor/gitlab-downloader
