@@ -51,6 +51,8 @@ https://youtu.be/1ibmWyt8hfw
 - Rust로 Gitlab으로 배포하는 방법(How to make use of the GitLab CI for Rust Projects
 
   - https://dev.to/xfbs/how-to-make-use-of-the-gitlab-ci-for-rust-projects-4j1o
+  
+    - example https://gitlab.com/xfbs/rust-gitlab-example/
 
 
 - Gitlab DevSecOps 파이프라인 소개 : CI/CD 에서 보안검사 쉽게하기!
