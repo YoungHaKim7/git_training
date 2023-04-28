@@ -66,6 +66,9 @@ https://docs.gitlab.com/ee/tutorials/learn_git.html
 
   - https://youtu.be/AQ4WrAWd3E4
   
+- gitlab ci examples
+
+    - https://docs.gitlab.com/ee/ci/examples/
   
   
 - 성공한 gitlab?? https://gitlab.com/mike-ensor/gitlab-downloader
