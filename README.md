@@ -5,6 +5,10 @@
 https://youtu.be/ZqhJnaAPokk
 
 
+# GitLab : Merge Request
+
+https://youtu.be/XsyY50cn6s8
+
 
 # Git and GitHub - 0 Experience to Professional in 1 Tutorial (Part 1) | SuperSimpleDev
 
