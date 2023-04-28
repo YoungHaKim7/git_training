@@ -48,6 +48,10 @@ https://youtu.be/1ibmWyt8hfw
 
 # GitLab Publish 배포
 
+- Rust로 Giblab으로 배포하는 방법
+
+  - https://dev.to/xfbs/how-to-make-use-of-the-gitlab-ci-for-rust-projects-4j1o
+
 
 - Gitlab DevSecOps 파이프라인 소개 : CI/CD 에서 보안검사 쉽게하기!
 
