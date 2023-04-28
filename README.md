@@ -69,3 +69,5 @@ https://docs.gitlab.com/ee/tutorials/learn_git.html
   
   
 - 성공한 gitlab?? https://gitlab.com/mike-ensor/gitlab-downloader
+
+  - https://mike-ensor.medium.com/release-multi-target-rust-applications-with-gitlab-ci-90136fa10e4c
