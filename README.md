@@ -41,3 +41,14 @@ https://youtu.be/1ibmWyt8hfw
   - 다른 쓸만한 블로그
 
     - https://www.gitkraken.com/learn/git/git-add
+    
+<br>
+
+<hr>
+
+# GitLab Publish 배포
+
+
+- Gitlab DevSecOps 파이프라인 소개 : CI/CD 에서 보안검사 쉽게하기!
+
+  - https://youtu.be/AQ4WrAWd3E4
