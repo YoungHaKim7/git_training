@@ -1,5 +1,7 @@
 # git_training
 
+git tutorial https://git-scm.com/docs/gittutorial
+
 # git 사용법 (한글설명)
 
 https://youtu.be/ZqhJnaAPokk
