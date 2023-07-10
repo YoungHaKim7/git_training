@@ -1,3 +1,11 @@
+# GitHub 프로젝트에 기여하기
+
+https://git-scm.com/book/ko/v2/GitHub-GitHub-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-%EA%B8%B0%EC%97%AC%ED%95%98%EA%B8%B0
+
+<br>
+
+<hr>
+
 # git_training
 
 git tutorial https://git-scm.com/docs/gittutorial
