@@ -21,6 +21,7 @@ https://youtu.be/ZqhJnaAPokk
 
 https://youtu.be/XsyY50cn6s8
 
+<hr>
 
 # Git and GitHub - 0 Experience to Professional in 1 Tutorial (Part 1) | SuperSimpleDev
 
@@ -29,6 +30,15 @@ https://youtu.be/hrTQipWp6co
 # Git and GitHub - 0 Experience to Professional in 1 Tutorial (Part 2) | SuperSimpleDev
 
 https://youtu.be/1ibmWyt8hfw
+
+
+<hr>
+
+# Complete Git and GitHub Tutorial for Beginners | Apna College
+
+https://youtu.be/Ez8F0nW6S-w?si=WB0ZbFC18IHuXboi
+
+<hr>
 
 
 # git diff
