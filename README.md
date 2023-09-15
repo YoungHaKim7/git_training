@@ -10,7 +10,9 @@ https://git-scm.com/book/ko/v2/GitHub-GitHub-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B
 
 # A collection of useful .gitignore templates 
 
-https://github.com/github/gitignore/
+- ```.gitignore```세팅 언어별로 다 정리되어 있다. 굿 👍💕🙌
+
+  - https://github.com/github/gitignore/
 
 <hr>
 
