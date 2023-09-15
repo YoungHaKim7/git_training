@@ -8,7 +8,7 @@ https://git-scm.com/book/ko/v2/GitHub-GitHub-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B
 
 <hr>
 
-# https://github.com/github/gitignore/
+# A collection of useful .gitignore templates 
 
 https://github.com/github/gitignore/
 
