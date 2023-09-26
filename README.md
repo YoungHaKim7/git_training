@@ -8,6 +8,12 @@ https://git-scm.com/book/ko/v2/GitHub-GitHub-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B
 
 <hr>
 
+# gitignore규칙 한글로 잘 정리됨( 모든 폴더 하위폴더까지 적용하는것까지!!)
+
+https://nochoco-lee.tistory.com/46
+
+<hr>
+
 # A collection of useful .gitignore templates 
 
 - ```.gitignore```세팅 언어별로 다 정리되어 있다. 굿 👍💕🙌
