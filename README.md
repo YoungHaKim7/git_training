@@ -4,6 +4,9 @@ https://git-scm.com/book/ko/v2/GitHub-GitHub-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B
 
 - branch 가져오기 https://cjh5414.github.io/get-git-remote-branch/
 
+- How to Earn with Open Source Contributions
+  - https://youtu.be/9AkfNuc_SZ4?si=aCrz0PTXOzHQcHHa
+
 <br>
 
 <hr>
