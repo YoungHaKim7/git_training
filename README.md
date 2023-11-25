@@ -11,6 +11,12 @@ https://git-scm.com/book/ko/v2/GitHub-GitHub-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B
 
 <hr>
 
+# Git Cheat Sheet
+
+- https://sapling-scm.com/docs/introduction/git-cheat-sheet/
+
+<hr>
+
 # gitignore규칙 한글로 잘 정리됨( 모든 폴더 하위폴더까지 적용하는것까지!!)
 
 https://nochoco-lee.tistory.com/46
