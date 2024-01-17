@@ -9,6 +9,22 @@ https://git-scm.com/book/ko/v2/GitHub-GitHub-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B
 
 <br>
 
+# git 처음 만들어서 git연결 
+
+```bash
+echo "# Makefile_training" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/YoungHaKim7/Makefile_training.git
+git push -u origin main
+```
+
+<hr>
+
+<br>
+
 <hr>
 
 # Git Cheat Sheet
