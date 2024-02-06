@@ -135,3 +135,6 @@ https://docs.gitlab.com/ee/tutorials/learn_git.html
 - 성공한 gitlab?? https://gitlab.com/mike-ensor/gitlab-downloader
 
   - https://mike-ensor.medium.com/release-multi-target-rust-applications-with-gitlab-ci-90136fa10e4c
+
+# Github보다 보면 read-only로 표시된 경우를 볼 수 있다. 그 이유는
+- https://github.com/naver/yobi/issues/432
