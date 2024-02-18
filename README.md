@@ -27,6 +27,16 @@ git push -u origin main
 
 <hr>
 
+# **[GN⁺: 인기 있는 Git 설정 옵션들](<https://news.hada.io/topic?id=13405&utm_source=discord&utm_medium=bot&utm_campaign=1480>)**
+- https://jvns.ca/blog/2024/02/16/popular-git-config-options/
+- `pull.ff only` 또는 `pull.rebase true`  
+  - 두 설정 모두 `git pull`을 실행할 때 브랜치가 상위 브랜치와 다를 경우 실수로 병합 커밋을 생성하는 것을 방지하기 위함.  
+  - `pull.rebase true`는 매번 `git pull --rebase`를 실행하는 것과 동일.  
+  - `pull.ff only`는 매번 `git pull --ff-only`를 실행하...
+
+<hr>
+
+
 # Git Cheat Sheet
 
 - https://sapling-scm.com/docs/introduction/git-cheat-sheet/
