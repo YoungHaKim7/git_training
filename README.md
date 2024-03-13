@@ -23,6 +23,12 @@ git push -u origin main
 
 <hr>
 
+# github 프로젝트 릴리즈 하는 법
+
+- https://www.lesstif.com/gitbook/github-20774996.html
+
+<hr>
+
 <br>
 
 <hr>
