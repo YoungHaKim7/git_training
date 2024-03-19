@@ -23,6 +23,12 @@ git push -u origin main
 
 <hr>
 
+# .gitignore 느낌표 표시가 무슨 의미인지 알아보자
+
+https://codingdog.tistory.com/entry/gitignore-%ED%8C%8C%EC%9D%BC%EC%97%90-%EC%9E%88%EB%8A%94-%EB%AC%B4%EC%8B%9C-%ED%8C%A8%ED%84%B4%EA%B3%BC-%EB%8A%90%EB%82%8C%ED%91%9C-%ED%8C%A8%ED%84%B4%EC%9D%84-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4
+
+<hr>
+
 # github 프로젝트 릴리즈 하는 법
 
 - https://www.lesstif.com/gitbook/github-20774996.html
