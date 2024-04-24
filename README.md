@@ -164,3 +164,6 @@ https://docs.gitlab.com/ee/tutorials/learn_git.html
 # git submodule 삭제하는법
 
 http://snowdeer.github.io/git/2018/08/01/how-to-remove-git-submodule/
+
+# git submodule update
+https://nochoco-lee.tistory.com/88
