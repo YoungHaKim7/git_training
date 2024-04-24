@@ -160,3 +160,7 @@ https://docs.gitlab.com/ee/tutorials/learn_git.html
 
 # Github보다 보면 read-only로 표시된 경우를 볼 수 있다. 그 이유는
 - https://github.com/naver/yobi/issues/432
+
+# git submodule 삭제하는법
+
+http://snowdeer.github.io/git/2018/08/01/how-to-remove-git-submodule/
