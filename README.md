@@ -165,5 +165,24 @@ https://docs.gitlab.com/ee/tutorials/learn_git.html
 
 http://snowdeer.github.io/git/2018/08/01/how-to-remove-git-submodule/
 
+
+
+- 먼저 git submodule deinit -f 명령어를 통해서 해당 모듈을 deinit 해줍니다.
+```bash
+git submodule deinit -f test_app
+```
+
+- 그 다음 .git/modules 폴더에 들어가서 해당 폴더를 삭제합니다.
+
+```bash
+rm -rf .git/modules/test_app
+```
+
+- 마지막으로 git에서 해당 폴더를 제거해주면 됩니다.
+
+```
+git rm -f test_app
+```
+
 # git submodule update
 https://nochoco-lee.tistory.com/88
