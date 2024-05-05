@@ -9,6 +9,14 @@ https://git-scm.com/book/ko/v2/GitHub-GitHub-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B
 
 <br>
 
+<hr>
+
+# rust개발자를 위한 git사용법 기초지식
+- https://rustc-dev-guide.rust-lang.org/git.html#rebasing-and-conflicts
+
+
+<hr>
+
 # git 처음 만들어서 git연결 
 
 ```bash
