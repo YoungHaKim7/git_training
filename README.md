@@ -63,6 +63,7 @@ https://codingdog.tistory.com/entry/gitignore-%ED%8C%8C%EC%9D%BC%EC%97%90-%EC%9E
 
 ![Screenshot from 2024-07-13 19-59-31](https://github.com/user-attachments/assets/3c445424-ddd4-43bd-a51a-0c10653797e0)
 
+- https://www.instagram.com/reel/C6GXtAuLhry/?igsh=Zjkxcm9vdHlidjB1
 
 <hr>
 
