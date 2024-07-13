@@ -61,6 +61,9 @@ https://codingdog.tistory.com/entry/gitignore-%ED%8C%8C%EC%9D%BC%EC%97%90-%EC%9E
 
 - https://sapling-scm.com/docs/introduction/git-cheat-sheet/
 
+![Screenshot from 2024-07-13 19-59-31](https://github.com/user-attachments/assets/3c445424-ddd4-43bd-a51a-0c10653797e0)
+
+
 <hr>
 
 # gitignore규칙 한글로 잘 정리됨( 모든 폴더 하위폴더까지 적용하는것까지!!)
