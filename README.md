@@ -1,4 +1,9 @@
-# GitHub 프로젝트에 기여하기
+# link
+- [test](#test)
+
+<hr>
+
+# GitHub 프로젝트에 기여하기[|🔝|](#link)
 
 https://git-scm.com/book/ko/v2/GitHub-GitHub-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-%EA%B8%B0%EC%97%AC%ED%95%98%EA%B8%B0
 
@@ -11,13 +16,13 @@ https://git-scm.com/book/ko/v2/GitHub-GitHub-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B
 
 <hr>
 
-# rust개발자를 위한 git사용법 기초지식
+# rust개발자를 위한 git사용법 기초지식[|🔝|](#link)
 - https://rustc-dev-guide.rust-lang.org/git.html#rebasing-and-conflicts
 
 
 <hr>
 
-# git 처음 만들어서 git연결 
+# git 처음 만들어서 git연결 [|🔝|](#link)
 
 ```bash
 echo "# Makefile_training" >> README.md
@@ -31,13 +36,13 @@ git push -u origin main
 
 <hr>
 
-# .gitignore 느낌표 표시가 무슨 의미인지 알아보자
+# .gitignore 느낌표 표시가 무슨 의미인지 알아보자[|🔝|](#link)
 
 https://codingdog.tistory.com/entry/gitignore-%ED%8C%8C%EC%9D%BC%EC%97%90-%EC%9E%88%EB%8A%94-%EB%AC%B4%EC%8B%9C-%ED%8C%A8%ED%84%B4%EA%B3%BC-%EB%8A%90%EB%82%8C%ED%91%9C-%ED%8C%A8%ED%84%B4%EC%9D%84-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4
 
 <hr>
 
-# github 프로젝트 릴리즈 하는 법
+# github 프로젝트 릴리즈 하는 법[|🔝|](#link)
 
 - https://www.lesstif.com/gitbook/github-20774996.html
 
@@ -47,7 +52,7 @@ https://codingdog.tistory.com/entry/gitignore-%ED%8C%8C%EC%9D%BC%EC%97%90-%EC%9E
 
 <hr>
 
-# **[GN⁺: 인기 있는 Git 설정 옵션들](<https://news.hada.io/topic?id=13405&utm_source=discord&utm_medium=bot&utm_campaign=1480>)**
+# **[GN⁺: 인기 있는 Git 설정 옵션들](<https://news.hada.io/topic?id=13405&utm_source=discord&utm_medium=bot&utm_campaign=1480>)**[|🔝|](#link)
 - https://jvns.ca/blog/2024/02/16/popular-git-config-options/
 - `pull.ff only` 또는 `pull.rebase true`  
   - 두 설정 모두 `git pull`을 실행할 때 브랜치가 상위 브랜치와 다를 경우 실수로 병합 커밋을 생성하는 것을 방지하기 위함.  
@@ -57,7 +62,7 @@ https://codingdog.tistory.com/entry/gitignore-%ED%8C%8C%EC%9D%BC%EC%97%90-%EC%9E
 <hr>
 
 
-# Git Cheat Sheet
+# Git Cheat Sheet[|🔝|](#link)
 
 - https://sapling-scm.com/docs/introduction/git-cheat-sheet/
 
@@ -67,13 +72,13 @@ https://codingdog.tistory.com/entry/gitignore-%ED%8C%8C%EC%9D%BC%EC%97%90-%EC%9E
 
 <hr>
 
-# gitignore규칙 한글로 잘 정리됨( 모든 폴더 하위폴더까지 적용하는것까지!!)
+# gitignore규칙 한글로 잘 정리됨( 모든 폴더 하위폴더까지 적용하는것까지!!)[|🔝|](#link)
 
 https://nochoco-lee.tistory.com/46
 
 <hr>
 
-# A collection of useful .gitignore templates 
+# A collection of useful .gitignore templates |🔝|](#link)
 
 - ```.gitignore```세팅 언어별로 다 정리되어 있다. 굿 👍💕🙌
 
@@ -81,46 +86,47 @@ https://nochoco-lee.tistory.com/46
 
 <hr>
 
-# git_training
+# git_training[|🔝|](#link)
 
-git tutorial https://git-scm.com/docs/gittutorial
+- git tutorial
+  - https://git-scm.com/docs/gittutorial
 
-# git 사용법 (한글설명)
+# git 사용법 (한글설명)[|🔝|](#link)
 
 https://youtu.be/ZqhJnaAPokk
 
 
-# GitLab : Merge Request
+# GitLab : Merge Request[|🔝|](#link)
 
 https://youtu.be/XsyY50cn6s8
 
 <hr>
 
-# Git and GitHub - 0 Experience to Professional in 1 Tutorial (Part 1) | SuperSimpleDev
+# Git and GitHub - 0 Experience to Professional in 1 Tutorial (Part 1) | SuperSimpleDev[|🔝|](#link)
 
 https://youtu.be/hrTQipWp6co
 
-# Git and GitHub - 0 Experience to Professional in 1 Tutorial (Part 2) | SuperSimpleDev
+# Git and GitHub - 0 Experience to Professional in 1 Tutorial (Part 2) | SuperSimpleDev[|🔝|](#link)
 
 https://youtu.be/1ibmWyt8hfw
 
 
 <hr>
 
-# Complete Git and GitHub Tutorial for Beginners | Apna College
+# Complete Git and GitHub Tutorial for Beginners | Apna College[|🔝|](#link)
 
 https://youtu.be/Ez8F0nW6S-w?si=WB0ZbFC18IHuXboi
 
 <hr>
 
 
-# git diff
+# git diff[|🔝|](#link)
 
 - 변화된 diff를 볼 수 있다. 굿 👍
 
   - https://youtu.be/2Y8Mltng5uc
 
-# git status -sb
+# git status -sb[|🔝|](#link)
 
 - git status
 
@@ -129,23 +135,27 @@ https://youtu.be/Ez8F0nW6S-w?si=WB0ZbFC18IHuXboi
 - 요약해서 status볼 수 있다.??
 
 
-# git add 다양한 활용법
+# git add 다양한 활용법[|🔝|](#link)
 
 - git add -u 이거 기능 찾아보자
 
   - 다른 쓸만한 블로그
 
     - https://www.gitkraken.com/learn/git/git-add
+
+# Git PULL vs FETCH | The Modern Coder[|🔝|](#link)
+- https://youtu.be/T13gDBXarj0?si=jKBpw0DL59eeWOQF
+
     
 <br>
 
 <hr>
 
-# GitLab에서 git 배우기
+# GitLab에서 git 배우기[|🔝|](#link)
 
 https://docs.gitlab.com/ee/tutorials/learn_git.html
 
-# GitLab Publish 배포
+# GitLab Publish 배포[|🔝|](#link)
 
 - Rust로 Gitlab으로 배포하는 방법(How to make use of the GitLab CI for Rust Projects
 
@@ -170,10 +180,10 @@ https://docs.gitlab.com/ee/tutorials/learn_git.html
 
   - https://mike-ensor.medium.com/release-multi-target-rust-applications-with-gitlab-ci-90136fa10e4c
 
-# Github보다 보면 read-only로 표시된 경우를 볼 수 있다. 그 이유는
+# Github보다 보면 read-only로 표시된 경우를 볼 수 있다. 그 이유는[|🔝|](#link)
 - https://github.com/naver/yobi/issues/432
 
-# git submodule 삭제하는법
+# git submodule 삭제하는법[|🔝|](#link)
 
 http://snowdeer.github.io/git/2018/08/01/how-to-remove-git-submodule/
 
@@ -196,5 +206,5 @@ rm -rf .git/modules/test_app
 git rm -f test_app
 ```
 
-# git submodule update
+# git submodule update[|🔝|](#link)
 https://nochoco-lee.tistory.com/88
