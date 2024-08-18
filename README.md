@@ -1,3 +1,9 @@
+<p align="center">
+  <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"></a>
+</p>
+
+<hr>
+
 # link
 - [github-프로젝트에-기여하기](#github-프로젝트에-기여하기)
 - [gitlab--merge-request](#gitlab--merge-request)
