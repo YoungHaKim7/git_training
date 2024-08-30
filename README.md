@@ -13,6 +13,7 @@
 <hr>
   
 - Git자주 쓰는 기능들
+  - [gh login할때 브라우져 강제로 띄우는 github홈페이지 주소]()
   - [gn-인기-있는-git-설정-옵션들](#gn-인기-있는-git-설정-옵션들)
   - [git-cheat-sheet](#git-cheat-sheet)
   - [gitignore규칙-한글로-잘-정리됨-모든-폴더-하위폴더까지-적용하는것까지](#gitignore규칙-한글로-잘-정리됨-모든-폴더-하위폴더까지-적용하는것까지)
@@ -55,6 +56,11 @@ https://git-scm.com/book/ko/v2/GitHub-GitHub-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B
   - https://youtu.be/9AkfNuc_SZ4?si=aCrz0PTXOzHQcHHa
 
 <br>
+
+<hr>
+
+# gh로그인 할때 브라우져 강제로 띄우기[|🔝|](#link)
+- https://github.com/login/device
 
 <hr>
 
