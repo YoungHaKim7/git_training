@@ -33,7 +33,7 @@
   - [git_training](#git_training)
   - [git-사용법-한글설명](#git-사용법-한글설명)
   - [git-and-github---0-experience-to-professional-in-1-tutorial-part-1--supersimpledev](#git-and-github---0-experience-to-professional-in-1-tutorial-part-1--supersimpledev)
-
+  - [git depth검색하다가 알게 됨_Git 명령어 정리)](http://minsone.github.io/git/git-command-list)
 - Youtube Tutorial
   - [4시간_Learn Git - The Full Course | Boot dev](https://youtu.be/rH3zE7VlIMs?si=RGkRcAeeGFX3hSyl)
 
