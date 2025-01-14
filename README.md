@@ -13,6 +13,7 @@
 <hr>
   
 - Git자주 쓰는 기능들
+  - [git 기존 git에 덮어씌우기_존재하는 폴더를 git올리기]() 
   - [gh login할때 브라우져 강제로 띄우는 github홈페이지 주소](#gh로그인-할때-브라우져-강제로-띄우기)
   - [gn-인기-있는-git-설정-옵션들](#gn-인기-있는-git-설정-옵션들)
   - [git-cheat-sheet](#git-cheat-sheet)
@@ -261,3 +262,15 @@ git rm -f test_app
 
 # git submodule update[|🔝|](#link)
 https://nochoco-lee.tistory.com/88
+
+
+# git 기존 git에 덮어씌우기_존재하는 폴더를 git올리기[|🔝|](#link)
+
+```bash
+$ git init
+  git add README.md
+  git commit -m "first commit"
+  git branch -M main
+  git remote add origin https://github.com/YoungHaKim7/Investment.git
+  git push -u origin main
+```
