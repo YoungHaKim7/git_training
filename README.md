@@ -24,6 +24,7 @@
   - [git-pull-vs-fetch--the-modern-coder](#git-pull-vs-fetch--the-modern-coder)
   - [git-submodule-삭제하는법](#git-submodule-삭제하는법)
   - [git-submodule-update](#git-submodule-update)
+  - [git-submodule업데이트 하기](#업데이트-submoduleupdating-sdl)
 
 <hr>
 
