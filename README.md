@@ -274,3 +274,18 @@ $ git init
   git remote add origin https://github.com/YoungHaKim7/Investment.git
   git push -u origin main
 ```
+
+# (업데이트 submodule)Updating SDL[|🔝|](#link)
+
+- https://github.com/Ravbug/sdl3-sample
+
+- Just update the submodule:
+
+```
+cd SDL
+git pull
+cd ..
+
+cd SDL_ttf
+git pull
+```
