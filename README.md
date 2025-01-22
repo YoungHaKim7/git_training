@@ -23,8 +23,7 @@
   - [git-add-다양한-활용법](#git-add-다양한-활용법)
   - [git-pull-vs-fetch--the-modern-coder](#git-pull-vs-fetch--the-modern-coder)
   - [git-submodule-삭제하는법](#git-submodule-삭제하는법)
-  - [git-submodule-update](#git-submodule-update)
-  - [git-submodule업데이트 하기](#업데이트-submoduleupdating-sdl)
+  - [git-submodule-update &(업데이트 submodule)Updating SDL_샘플](#git-submodule-update)
 
 <hr>
 
@@ -261,8 +260,6 @@ rm -rf .git/modules/test_app
 git rm -f test_app
 ```
 
-# git submodule update[|🔝|](#link)
-https://nochoco-lee.tistory.com/88
 
 
 # git 기존 git에 덮어씌우기_존재하는 폴더를 git올리기[|🔝|](#link)
@@ -276,7 +273,11 @@ $ git init
   git push -u origin main
 ```
 
-# (업데이트 submodule)Updating SDL[|🔝|](#link)
+# git submodule update[|🔝|](#link)
+
+- https://nochoco-lee.tistory.com/88
+
+- (업데이트 submodule)Updating SDL
 
 - https://github.com/Ravbug/sdl3-sample
 
