@@ -50,6 +50,16 @@
 
 <hr>
 
+# Git 코어 개발자는 Git을 어떻게 설정하고 사용할까? (blog.gitbutler.com)
+65P by xguru 2일전
+- "Pro Git" 저자인 Scott Chacon이 글로벌로 활성화한 몇 가지 Git 설정과 그 이유를 설명
+설정 중 다수는 실제로 Git 코어 코드베이스를 작업하는 개발자들로부터 배운 것임
+아래는 Git을 더 좋게 만드는 ~/.gitconfig 설정
+- https://news.hada.io/topic?id=19441
+
+
+<hr />
+
 # GitHub 프로젝트에 기여하기[|🔝|](#link)
 
 https://git-scm.com/book/ko/v2/GitHub-GitHub-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-%EA%B8%B0%EC%97%AC%ED%95%98%EA%B8%B0
