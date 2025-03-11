@@ -70,6 +70,32 @@ git branch -M main
 git push -u origin main
 ```
 
+```bash
+$ git init
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint:
+hint:   git config --global init.defaultBranch <name>
+hint:
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint:
+hint:   git branch -m <name>
+Initialized empty Git repository in /home/y/my_project/rust_lang/9999/rust_test_training/.git/
+
+
+힌트: 초기 브랜치의 이름으로 '마스터'를 사용합니다. 이 기본 브랜치 이름은
+힌트: 변경될 수 있습니다. 초기 분기 이름을 모두 사용하도록 구성하려면
+힌트: 이 경고를 억제할 새 리포지토리에 대해 다음과 같이 전화하세요:
+힌트:
+힌트: git config --global init.defaultBranch <name>
+힌트:
+힌트: '마스터' 대신 일반적으로 선택되는 이름은 '메인', '트렁크', 그리고
+힌트: '개발'. 방금 생성된 분기는 이 명령을 통해 이름을 변경할 수 있습니다:
+힌트:
+힌트: git 브랜치 -m <이름>
+```
 
 <hr>
 
