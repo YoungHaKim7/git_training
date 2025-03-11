@@ -46,6 +46,29 @@
   - [gitlab-publish-배포](#gitlab-publish-배포)
 
 
+<hr />
+
+# 기본 루틴 Github기준
+
+```bash
+# …or create a new repository on the command line
+
+echo "# rust_test_training" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/YoungHaKim7/rust_test_training.git
+git push -u origin main
+
+
+
+# …or push an existing repository from the command line
+
+git remote add origin https://github.com/YoungHaKim7/rust_test_training.git
+git branch -M main
+git push -u origin main
+```
 
 
 <hr>
