@@ -133,6 +133,9 @@ https://git-scm.com/book/ko/v2/GitHub-GitHub-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B
 - https://rustc-dev-guide.rust-lang.org/git.html#rebasing-and-conflicts
 
 
+# Git Merge vs Rebase 시각적 설명 | 어떤 것을 사용해야 할까? | ByteMonk[|🔝|](#link)
+- https://youtu.be/cjSjlHUmaBU?si=UoLDT7IBM0gvinst
+
 <hr>
 
 # git 처음 만들어서 git연결 [|🔝|](#link)
