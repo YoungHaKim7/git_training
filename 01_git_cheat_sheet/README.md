@@ -1,3 +1,18 @@
+# 많이 쓰는 git 명령어
+
+```bash
+# 과거로 돌릴때 ㅋ
+git checkout <commit id>
+
+```
+
+<hr />
+
+# Git & GitHub Mastery: 6-Hour One-Shot Advanced Tutorial (From Shell Commands to Git Hooks)
+Shubham gour
+- https://youtu.be/XcDQaTYJCLA?si=YIhJJEFMCyDmnQUf
+
+
 # An introduction to Git: what it is, and how to use it
 
 - https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/
