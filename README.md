@@ -24,7 +24,7 @@
   - [git-pull-vs-fetch--the-modern-coder](#git-pull-vs-fetch--the-modern-coder)
   - [git-submodule-삭제하는법](#git-submodule-삭제하는법)
   - [git-submodule-update &(업데이트 submodule)Updating SDL_샘플](#git-submodule-update)
-  - [끝내는 결국 `git bisect`를 사용하게 된다]()
+  - [끝내는 결국 `git bisect`를 사용하게 된다](#끝내는-결국-git-bisect를-사용하게-된다)
 
 <hr>
 
