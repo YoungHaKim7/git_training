@@ -24,6 +24,7 @@
   - [git-pull-vs-fetch--the-modern-coder](#git-pull-vs-fetch--the-modern-coder)
   - [git-submodule-삭제하는법](#git-submodule-삭제하는법)
   - [git-submodule-update &(업데이트 submodule)Updating SDL_샘플](#git-submodule-update)
+  - [끝내는 결국 `git bisect`를 사용하게 된다]()
 
 <hr>
 
@@ -262,6 +263,10 @@ https://youtu.be/Ez8F0nW6S-w?si=WB0ZbFC18IHuXboi
 # Git PULL vs FETCH | The Modern Coder[|🔝|](#link)
 - https://youtu.be/T13gDBXarj0?si=jKBpw0DL59eeWOQF
 
+# **[끝내는 결국 `git bisect`를 사용하게 된다](<https://news.hada.io/topic?id=24117&utm_source=discord&utm_medium=bot&utm_campaign=1480>)**[|🔝|](#link)
+- **이진 탐색(binary search)** 개념은 면접 문제뿐 아니라 실제 개발 도구인 **Git**에서도 활용됨  
+- 대규모 **monorepo 환경**에서 테스트가 갑자기 실패했을 때, 로그만으로는 원인을 추적하기 어려운 상황이 발생  
+- 한 동료가 **좋은 커밋과 나쁜 커밋을 지정해 `git bisect`로 자동 탐색**을 수행해 버그가 시…
     
 <br>
 
