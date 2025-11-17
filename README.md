@@ -24,7 +24,6 @@
   - [git-pull-vs-fetch--the-modern-coder](#git-pull-vs-fetch--the-modern-coder)
   - [git-submodule-삭제하는법](#git-submodule-삭제하는법)
   - [git-submodule-update &(업데이트 submodule)Updating SDL_샘플](#git-submodule-update)
-  - [끝내는 결국 `git bisect`를 사용하게 된다](#끝내는-결국-git-bisect를-사용하게-된다)
 
 <hr>
 
@@ -96,6 +95,27 @@ Initialized empty Git repository in /home/y/my_project/rust_lang/9999/rust_test_
 힌트: '개발'. 방금 생성된 분기는 이 명령을 통해 이름을 변경할 수 있습니다:
 힌트:
 힌트: git 브랜치 -m <이름>
+```
+
+# git tag 생성방법
+- https://holjjack.tistory.com/213
+
+- git tag 예시
+```bash
+$ git tag
+
+$ git tag v0.1.1-2025-11-17
+
+$ git push origin v0.1.1-2025-11-17
+Total 0 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/YoungHaKim7/justrs.git
+ * [new tag]         v0.1.1-2025-11-17 -> v0.1.1-2025-11-17
+```
+
+- git tag조회
+```bash
+$ git tag
+v0.1.1-2025-11-17
 ```
 
 <hr>
@@ -263,10 +283,7 @@ https://youtu.be/Ez8F0nW6S-w?si=WB0ZbFC18IHuXboi
 # Git PULL vs FETCH | The Modern Coder[|🔝|](#link)
 - https://youtu.be/T13gDBXarj0?si=jKBpw0DL59eeWOQF
 
-# **[끝내는 결국 `git bisect`를 사용하게 된다](<https://news.hada.io/topic?id=24117&utm_source=discord&utm_medium=bot&utm_campaign=1480>)**[|🔝|](#link)
-- **이진 탐색(binary search)** 개념은 면접 문제뿐 아니라 실제 개발 도구인 **Git**에서도 활용됨  
-- 대규모 **monorepo 환경**에서 테스트가 갑자기 실패했을 때, 로그만으로는 원인을 추적하기 어려운 상황이 발생  
-- 한 동료가 **좋은 커밋과 나쁜 커밋을 지정해 `git bisect`로 자동 탐색**을 수행해 버그가 시…
+
     
 <br>
 
