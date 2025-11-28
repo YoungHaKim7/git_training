@@ -48,6 +48,12 @@
 
 <hr />
 
+# git config
+
+```
+$ git config --global --list
+```
+
 # 기본 루틴 Github기준
 
 ```bash
