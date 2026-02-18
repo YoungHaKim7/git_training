@@ -48,6 +48,16 @@
 
 <hr />
 
+# AI공격 대비 좋은 기능들
+
+# 260217) **[GitHub, PR을 비활성화 하거나 접근을 제한하는 설정 추가 ](<https://news.hada.io/topic?id=26772&utm_source=discord&utm_medium=bot&utm_campaign=1480>)**
+- 저장소 관리자가 **풀 리퀘스트(PR)** 접근 방식을 세밀하게 제어할 수 있는 두 가지 새로운 설정이 추가됨  
+- **풀 리퀘스트 기능을 완전히 비활성화**해, 탭이 숨겨지고 기존 PR도 볼 수 없게 함  
+- **협업자(collaborator)** 만 새 PR을 만들 수 있도록 제한하며, 다른 사용자는 열람과 댓글만 가능  
+- 이 설정…
+
+<hr />
+
 # git config
 
 ```
