@@ -64,6 +64,13 @@
 $ git config --global --list
 ```
 
+- git default "vim"설정
+  - https://velog.io/@jhyeom1545/git-editor-%EB%B3%80%EA%B2%BD-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0
+
+```bash
+git config --global core.editor "vim"
+```
+
 # 기본 루틴 Github기준
 
 ```bash
