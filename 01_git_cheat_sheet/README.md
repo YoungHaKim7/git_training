@@ -6,6 +6,9 @@ git checkout <commit id>
 
 ```
 
+# rust공식 사이트 Git 설명
+- https://rustc-dev-guide.rust-lang.org/git.html
+
 <hr />
 
 # Git & GitHub Mastery: 6-Hour One-Shot Advanced Tutorial (From Shell Commands to Git Hooks)
