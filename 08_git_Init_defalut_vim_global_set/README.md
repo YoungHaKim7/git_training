@@ -22,3 +22,18 @@ Omit --global to set the identity only in this repository.
 
 fatal: empty ident name (for <ytok1@globalyoung.localdomain>) not allowed
 ```
+# gh install(Ubuntu)
+
+```bash
+sudo apt install gh
+
+# login
+gh auth login
+```
+
+# gh로그인 할때 브라우져 강제로 띄우기[|🔝|](#link)
+- https://github.com/login/device
+- 출처 :
+  - https://github.com/cli/cli/issues/5500
+
+
