@@ -11,10 +11,9 @@ git checkout <commit id>
 
 <hr />
 
-# Git & GitHub Mastery: 6-Hour One-Shot Advanced Tutorial (From Shell Commands to Git Hooks)
-Shubham gour
-- https://youtu.be/XcDQaTYJCLA?si=YIhJJEFMCyDmnQUf
-
+# 유튜브 영상자료
+- [(220609) GitLab CI CD Tutorial for Beginners [Crash Course] | TechWorld with Nana](https://youtu.be/qP8kir2GUgo?si=gvRyTvnOfUX-w8Wv)
+- [Git & GitHub Mastery: 6-Hour One-Shot Advanced Tutorial (From Shell Commands to Git Hooks) | Shubham gour](https://youtu.be/XcDQaTYJCLA?si=YIhJJEFMCyDmnQUf)
 
 # An introduction to Git: what it is, and how to use it
 
