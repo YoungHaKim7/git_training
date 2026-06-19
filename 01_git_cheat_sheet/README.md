@@ -11,6 +11,18 @@ git checkout <commit id>
 
 <hr />
 
+# ▲Git으로 Undo하는 (거의) 모든 방법 [2015] (github.blog)
+- by xguru 2019-12-25
+- Push한후 Undo하기
+- 마지막 커밋메시지 수정
+- 로컬변경 리셋
+- 로컬Undo후 Redo
+- 브랜치에 할 커밋을 마스터에 했을때
+- Rebase
+- 대규모 Undo/Redo
+- 예전커밋 수정
+- 트래킹되는 파일 지우기
+
 # 유튜브 영상자료
 - [(220609) GitLab CI CD Tutorial for Beginners [Crash Course] | TechWorld with Nana](https://youtu.be/qP8kir2GUgo?si=gvRyTvnOfUX-w8Wv)
 - [Git & GitHub Mastery: 6-Hour One-Shot Advanced Tutorial (From Shell Commands to Git Hooks) | Shubham gour](https://youtu.be/XcDQaTYJCLA?si=YIhJJEFMCyDmnQUf)
