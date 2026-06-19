@@ -13,6 +13,7 @@ git checkout <commit id>
 
 # ▲Git으로 Undo하는 (거의) 모든 방법 [2015] (github.blog)
 - by xguru 2019-12-25
+- https://news.hada.io/topic?id=1145
 - Push한후 Undo하기
 - 마지막 커밋메시지 수정
 - 로컬변경 리셋
