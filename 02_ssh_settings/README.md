@@ -7,6 +7,7 @@
 # SSH 키 관리
 
 - 커널 빌드 서버에 접속할 때는 비밀번호 대신 공개키 인증을 사용하는 것이 보안과 편의성 모두에서 유리합니다. Ed25519 알고리즘은 현재 가장 권장되는 키 타입입니다.
+  - https://www.minzkn.com/linuxkernel/pages/remote-dev.html#ssh-key-management
 
 ```bash
 # Ed25519 키 생성 (권장)
