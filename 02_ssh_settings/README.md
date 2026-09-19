@@ -24,3 +24,7 @@ ssh-add ~/.ssh/id_ed25519
 # 키 등록 확인
 ssh-add -l
 ```
+
+
+# git-credential-osxkeychain access key 해결
+- https://velog.io/@saichoiblog/macOS-GitHub-push-%EC%8B%9C-git-credential-osxkeychain-%ED%82%A4%EC%B2%B4%EC%9D%B8-%ED%8C%9D%EC%97%85-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0SSH-Key-%EB%93%B1%EB%A1%9D
