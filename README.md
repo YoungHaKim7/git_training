@@ -72,6 +72,15 @@ $ git config --global --list
 git config --global core.editor "vim"
 ```
 
+### 사용자 정보
+- https://git-scm.com/book/ko/v2/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-Git-%EC%B5%9C%EC%B4%88-%EC%84%A4%EC%A0%95
+
+```bash
+# Git을 설치하고 나서 가장 먼저 해야 하는 것은 사용자이름과 이메일 주소를 설정하는 것이다. Git은 커밋할 때마다 이 정보를 사용한다. 한 번 커밋한 후에는 정보를 변경할 수 없다.
+$ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
+```
+
 # 기본 루틴 Github기준
 
 ```bash
